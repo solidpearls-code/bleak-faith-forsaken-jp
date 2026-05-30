@@ -2,6 +2,7 @@
 
 > **Unofficial Japanese localization patch for Bleak Faith: Forsaken (UE4.27).**
 > Drop `BleakFaithForsaken_JP_P.pak` into the game's `Forsaken/Content/Paks/~mods/` folder.
+> **This MOD contains no game files (none are distributed).** It is an unofficial patch that distributes only the translation data. A legitimate copy of **Bleak Faith: Forsaken** is required to play.
 
 UE4.27製アクションRPG **Bleak Faith: Forsaken**（Archangel Studios）向けの非公式日本語化パッチです。ゲーム本体に **pakを被せる**形式で動作し、本体ファイルは書き換えません。
 
