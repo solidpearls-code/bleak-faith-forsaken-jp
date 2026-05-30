@@ -1,0 +1,1067 @@
+[
+    {
+        &tl_Entropy_discovered#
+        Original English: "Entropy:/n/n- A destructive aura eating at your link to this world."
+        Translation: "エントロピー：/n/n- 世界との接続を侵食する崩壊反応。"
+    },
+    {
+        &tl_debuffSilence#
+        Original English: "Status Effect Chance: Silence/n/nChance to inflict status effect per instance of damage done./nSilence stops target from casting ability and in case they are immune to it, it slows down their casting speed."
+        Translation: "状態異常付与確率：沈黙/n/nダメージ毎に状態異常を付与する確率。/n沈黙は対象のアビリティ詠唱を阻止する。免疫を持つ対象には詠唱速度を低下させる。"
+    },
+    {
+        &tl_debuffHeat#
+        Original English: "Status Effect Chance: Heat/n/nChance to inflict status effect per instance of damage done./nDamage overtime for the duration of the debuff./nDuration between ticks is based of your Intelligence Attribute, caps at 45."
+        Translation: "状態異常付与確率：炎上/n/nダメージ毎に状態異常を付与する確率。/nデバフ持続中、継続ダメージを与える。/nダメージ間隔は知性能力値に依存し、上限は45。"
+    },
+    {
+        &tl_debuffFrost#
+        Original English: "Status Effect Chance: Frost/n/nChance to inflict status effect per instance of damage done./nEnemies inflicted by frost are slowed."
+        Translation: "状態異常付与確率：凍傷/n/nダメージ毎に状態異常を付与する確率。/n凍傷を付与された敵は鈍化する。"
+    },
+    {
+        &tl_debuffDecay#
+        Original English: "Status Effect Chance: Decay/n/nChance to inflict status effect per instance of damage done./nReduce all armor resistance and attack power by 5% per stack."
+        Translation: "状態異常付与確率：崩壊/n/nダメージ毎に状態異常を付与する確率。/nスタック毎に全防護値と攻撃力を5%低下させる。"
+    },
+    {
+        &tl_PenetrationSharp#
+        Original English: "Penetration: Sharp/n/nAmount of armor resistance ignored per instance of damage./nCan't exceed 75%."
+        Translation: "貫通：斬撃/n/nダメージ毎に無視する防護値の割合。/n75%が上限。"
+    },
+    {
+        &tl_PenetrationBlunt#
+        Original English: "Penetration: Blunt/n/nAmount of armor resistance ignored per instance of damage./nCan't exceed 75%."
+        Translation: "貫通：打撃/n/nダメージ毎に無視する防護値の割合。/n75%が上限。"
+    },
+    {
+        &tl_PenetrationTechnomancy#
+        Original English: "Penetration: Technomancy/n/nAmount of technomancy resistance ignored per instance of damage./nCan't exceed 75%."
+        Translation: "貫通：テクノマンシー/n/nダメージ毎に無視するテクノマンシー防護の割合。/n75%が上限。"
+    },
+    {
+        &tl_ladderNoUse#
+        Original English: "You can't use that feature with this ladder."
+        Translation: "このラダーでは使用できません。"
+    },
+    {
+        &tl_ladderUnlock#
+        Original English: "You have to fully use this ladder at least once first."
+        Translation: "このラダーを最後まで使用する必要があります。"
+    },
+    {
+        &tl_ladderAlreadyUse#
+        Original English: "Already using this feature."
+        Translation: "既に使用中です。"
+    },
+    {
+        &tl_leverUnsable#
+        Original English: "Can't currently use this lever."
+        Translation: "このレバーは使用できません。"
+    },
+    {
+        &tl_elevatorSameLevel#
+        Original English: "Elevator is already here."
+        Translation: "エレベーターは既に到着しています。"
+    },
+    {
+        &tl_transitionHostOnly#
+        Original English: "Only the host can initiate level transition."
+        Translation: "レベル移動を開始できるのはホストのみです。"
+    },
+    {
+        &tl_transitionUse#
+        Original English: "You are about to transition to next level. Initiate?"
+        Translation: "次のレベルへ移動します。開始しますか？"
+    },
+    {
+        &tl_onlineSuccess#
+        Original English: "You are now online."
+        Translation: "オンラインです。"
+    },
+    {
+        &tl_onlineFail#
+        Original English: "Failed to connect online."
+        Translation: "オンライン接続に失敗しました。"
+    },
+    {
+        &tl_offlineSuccess#
+        Original English: "You are now offline."
+        Translation: "オフラインに切り替えます。"
+    },
+    {
+        &tl_updateSuccess#
+        Original English: "Updated current session."
+        Translation: "現セッションを更新します。"
+    },
+    {
+        &tl_updateFail#
+        Original English: "Failed to update current session."
+        Translation: "現セッションの更新に失敗しました。"
+    },
+    {
+        &tl_downscale#
+        Original English: "Equipment is downscaled to hosts average."
+        Translation: "装備がホストの平均値にダウンスケールされました。"
+    },
+    {
+        &tl_upscale#
+        Original English: "Host upscaled their equipment. Enter inventory to refresh."
+        Translation: "ホストが装備をアップスケールしました。所持品を開いて更新してください。"
+    },
+    {
+        &tl_1#
+        Original English: "Next point into this attribute increases weapon damage by"
+        Translation: "この能力値にポイントを振ると武器ダメージが増加"
+    },
+    {
+        &tl_2#
+        Original English: "Total increase is"
+        Translation: "総増加量"
+    },
+    {
+        &tl_3#
+        Original English: "Maximum weight is"
+        Translation: "最大重量"
+    },
+    {
+        &tl_4#
+        Original English: "Kg"
+        Translation: "kg"
+    },
+    {
+        &tl_5#
+        Original English: "g"
+        Translation: "g"
+    },
+    {
+        &tl_6#
+        Original English: "Next point into this attribute increases maximum weight by"
+        Translation: "この能力値にポイントを振ると最大重量が増加"
+    },
+    {
+        &tl_7#
+        Original English: "Already reached maximum value increase."
+        Translation: "増加量は既に上限に到達しています。"
+    },
+    {
+        &tl_8#
+        Original English: "Total reduction is"
+        Translation: "総減少量"
+    },
+    {
+        &tl_9#
+        Original English: "Increases melee swing speed when above 15 points."
+        Translation: "15ポイント以上で近接攻撃速度が上昇します。"
+    },
+    {
+        &tl_10#
+        Original English: "Increases movement speed when above 15 points."
+        Translation: "15ポイント以上で移動速度が上昇します。"
+    },
+    {
+        &tl_11#
+        Original English: "Maximum increase to ranged weapon Draw Speed reached."
+        Translation: "遠隔武器の構え速度の増加量が上限に到達しています。"
+    },
+    {
+        &tl_12#
+        Original English: "Next point increases ranged weapon Draw Speed by"
+        Translation: "ポイントで遠隔武器の構え速度が増加"
+    },
+    {
+        &tl_13#
+        Original English: "Additional"
+        Translation: "追加"
+    },
+    {
+        &tl_14#
+        Original English: "Penalty of"
+        Translation: "ペナルティ"
+    },
+    {
+        &tl_15#
+        Original English: "is applied to ranged draw speed."
+        Translation: "が遠隔構え速度に適用されます。"
+    },
+    {
+        &tl_16#
+        Original English: "Maximum boss resistance to arrows reduction reached."
+        Translation: "ボスの矢耐性減少量が上限に到達しています。"
+    },
+    {
+        &tl_17#
+        Original English: "Next point reduces boss resistance to arrows by"
+        Translation: "ポイントでボスの矢耐性が減少"
+    },
+    {
+        &tl_18#
+        Original English: "Maximum Stamina Delay reduction reached."
+        Translation: "スタミナ回復遅延の減少量が上限に到達しています。"
+    },
+    {
+        &tl_19#
+        Original English: "seconds"
+        Translation: "秒"
+    },
+    {
+        &tl_20#
+        Original English: "Next point reduces Stamina Delay by"
+        Translation: "ポイントでスタミナ回復遅延が減少"
+    },
+    {
+        &tl_21#
+        Original English: "Next point increases total Stamina by"
+        Translation: "ポイントで総スタミナが増加"
+    },
+    {
+        &tl_22#
+        Original English: "Next point increases Critical Chance by"
+        Translation: "ポイントでクリティカル率が増加"
+    },
+    {
+        &tl_23#
+        Original English: "Maximum addition to Movement Speed has been reached."
+        Translation: "移動速度の増加量が上限に到達しています。"
+    },
+    {
+        &tl_24#
+        Original English: "Next point increases Movement Speed by"
+        Translation: "ポイントで移動速度が増加"
+    },
+    {
+        &tl_25#
+        Original English: "Maximum addition to Melee Swing Speed has been reached."
+        Translation: "近接攻撃速度の増加量が上限に到達しています。"
+    },
+    {
+        &tl_26#
+        Original English: "Next point increases Melee Swing Speed by"
+        Translation: "ポイントで近接攻撃速度が増加"
+    },
+    {
+        &tl_27#
+        Original English: "Maximum increase to Critical Chance reached."
+        Translation: "クリティカル率の増加量が上限に到達しています。"
+    },
+    {
+        &tl_28#
+        Original English: "Next point into this attribute increases maximum Flux by"
+        Translation: "この能力値にポイントを振ると最大Fluxが増加"
+    },
+    {
+        &tl_29#
+        Original English: "Total damage increase is"
+        Translation: "総ダメージ増加量"
+    },
+    {
+        &tl_30#
+        Original English: "Next point into this attribute increases technomancy damage by"
+        Translation: "この能力値にポイントを振るとテクノマンシーダメージが増加"
+    },
+    {
+        &tl_31#
+        Original English: "Next point into this attribute increases stagger resistance by"
+        Translation: "この能力値にポイントを振ると怯み耐性が増加"
+    },
+    {
+        &tl_32#
+        Original English: "Maximum increase to stagger resistance reached."
+        Translation: "怯み耐性の増加量が上限に到達しています。"
+    },
+    {
+        &tl_33#
+        Original English: "Next point into this attribute increases maximum Health by"
+        Translation: "この能力値にポイントを振ると最大HPが増加"
+    },
+    {
+        &tl_34#
+        Original English: "Maximum Health Points of your character."
+        Translation: "キャラクターの最大HP。"
+    },
+    {
+        &tl_35#
+        Original English: "Increased by Constitution, Equipment and Concoctions."
+        Translation: "体質・装備・調合薬で増加。"
+    },
+    {
+        &tl_36#
+        Original English: "Maximum Stamina Points of your character."
+        Translation: "キャラクターの最大スタミナ。"
+    },
+    {
+        &tl_37#
+        Original English: "Increased by Agility and Equipment."
+        Translation: "俊敏と装備で増加。"
+    },
+    {
+        &tl_38#
+        Original English: "Current green outline counts toward current Stamina count."
+        Translation: "現在の緑色アウトラインは現スタミナ量に追加されます。"
+    },
+    {
+        &tl_39#
+        Original English: "Maximum Flux Points of your character."
+        Translation: "キャラクターの最大Flux。"
+    },
+    {
+        &tl_40#
+        Original English: "Increased by Intelligence and Equipment."
+        Translation: "知性と装備で増加。"
+    },
+    {
+        &tl_Entropy#
+        Original English: "Entropy:/n/n- Unknown. Proceed further."
+        Translation: "エントロピー：/n/n- 不明。進行してください。"
+    },
+    {
+        &tl_41#
+        Original English: "Stamina Delay"
+        Translation: "スタミナ回復遅延"
+    },
+    {
+        &tl_42#
+        Original English: "Delay before stamina starts regenerating."
+        Translation: "スタミナ回復が始まるまでの遅延。"
+    },
+    {
+        &tl_43#
+        Original English: "Can be affected by certain Augments."
+        Translation: "特定の能力強化の影響を受ける。"
+    },
+    {
+        &tl_44#
+        Original English: "seconds reduction from Agility Attribute."
+        Translation: "秒の俊敏能力値による減少。"
+    },
+    {
+        &tl_45#
+        Original English: "seconds addition from Encumbrance."
+        Translation: "秒の重量負荷による追加。"
+    },
+    {
+        &tl_46#
+        Original English: "Can be affected by equipment."
+        Translation: "装備の影響を受ける。"
+    },
+    {
+        &tl_47#
+        Original English: "Movement Speed affects Roll and Dash speeds."
+        Translation: "移動速度はローリングとダッシュの速度に影響する。"
+    },
+    {
+        &tl_48#
+        Original English: "addition from Agility Attribute."
+        Translation: "の俊敏能力値による追加。"
+    },
+    {
+        &tl_49#
+        Original English: "Total Weight of your armor and both primary and secondary weapons."
+        Translation: "防具と主・副武器双方の合計重量。"
+    },
+    {
+        &tl_50#
+        Original English: "Total Weight can go beyond maximum weight."
+        Translation: "総重量は最大重量を超える可能性があります。"
+    },
+    {
+        &tl_51#
+        Original English: "additional Stagger Resistance."
+        Translation: "の追加怯み耐性。"
+    },
+    {
+        &tl_52#
+        Original English: "Maximum Weight is affected by Strength Attribute."
+        Translation: "最大重量は筋力能力値の影響を受ける。"
+    },
+    {
+        &tl_53#
+        Original English: "Current Maximum Weight is"
+        Translation: "現在の最大重量"
+    },
+    {
+        &tl_54#
+        Original English: "You are currently"
+        Translation: "現在の超過"
+    },
+    {
+        &tl_55#
+        Original English: "Kg over maximum capacity."
+        Translation: "kgの最大容量超過。"
+    },
+    {
+        &tl_56#
+        Original English: "additional seconds before stamina starts regenerating."
+        Translation: "秒のスタミナ回復遅延の追加。"
+    },
+    {
+        &tl_57#
+        Original English: "reduction from Encumbrance."
+        Translation: "の重量負荷による減少。"
+    },
+    {
+        &tl_58#
+        Original English: "Total Encumbrance"
+        Translation: "総重量負荷"
+    },
+    {
+        &tl_59#
+        Original English: "You are"
+        Translation: "現在"
+    },
+    {
+        &tl_60#
+        Original English: "over the limit."
+        Translation: "の超過。"
+    },
+    {
+        &tl_61#
+        Original English: "Anything over the limit is ignored."
+        Translation: "上限を超えた分は無視されます。"
+    },
+    {
+        &tl_62#
+        Original English: "Amount of Health required to be taken in short timing before character gets hit staggered."
+        Translation: "怯みが発生するまでに短時間で受けるべきHP量。"
+    },
+    {
+        &tl_63#
+        Original English: "from equipment."
+        Translation: "の装備による値。"
+    },
+    {
+        &tl_64#
+        Original English: " from Total Weight."
+        Translation: " の総重量による値。"
+    },
+    {
+        &tl_65#
+        Original English: "from Constitution."
+        Translation: "の体質による値。"
+    },
+    {
+        &tl_66#
+        Original English: "more"
+        Translation: "以上"
+    },
+    {
+        &tl_67#
+        Original English: "less"
+        Translation: "以下"
+    },
+    {
+        &tl_68#
+        Original English: "Can only be increased by Equipment."
+        Translation: "装備でのみ増加する。"
+    },
+    {
+        &tl_69#
+        Original English: "Rating goes between -7500 and 7500."
+        Translation: "値は-7500から7500の範囲。"
+    },
+    {
+        &tl_70#
+        Original English: "100 rating is converted to 1% of damage reduction."
+        Translation: "100の値で1%のダメージ軽減に変換されます。"
+    },
+    {
+        &tl_71#
+        Original English: "Currently receiving"
+        Translation: "現在受けている"
+    },
+    {
+        &tl_72#
+        Original English: "damage of this type."
+        Translation: "ダメージ"
+    },
+    {
+        &tl_73#
+        Original English: "Can only be affected by Equipment and Perks."
+        Translation: "装備とパークの影響のみを受ける。"
+    },
+    {
+        &tl_74#
+        Original English: "Rate at which melee attacks are executed."
+        Translation: "近接攻撃が繰り出される速度。"
+    },
+    {
+        &tl_75#
+        Original English: "Rate at which range weapons are drawn."
+        Translation: "遠隔武器を構える速度。"
+    },
+    {
+        &tl_76#
+        Original English: "Current ranged weapon Draw Speed"
+        Translation: "現在の遠隔武器構え速度"
+    },
+    {
+        &tl_77#
+        Original English: "from Equipment is applied to ranged weapon Draw Speed."
+        Translation: "の装備値が遠隔武器構え速度に適用される。"
+    },
+    {
+        &tl_78#
+        Original English: "Penalty of"
+        Translation: "ペナルティ"
+    },
+    {
+        &tl_79#
+        Original English: "Additional"
+        Translation: "追加"
+    },
+    {
+        &tl_80#
+        Original English: "from Agility Attribute is applied to ranged weapon Draw Speed."
+        Translation: "の俊敏能力値が遠隔武器構え速度に適用されます。"
+    },
+    {
+        &tl_81#
+        Original English: "Affects melee and ranged weapon damage."
+        Translation: "近接・遠隔武器ダメージに影響。"
+    },
+    {
+        &tl_82#
+        Original English: "Can only be increased via weapons and accessories."
+        Translation: "武器と装飾具でのみ増加。"
+    },
+    {
+        &tl_83#
+        Original English: "Determines the speed at which abilities are executed."
+        Translation: "アビリティが発動される速度を決定。"
+    },
+    {
+        &tl_84#
+        Original English: "Can only be affected by Equipment, Perks or debuffs."
+        Translation: "装備・パーク・デバフの影響のみを受けます。"
+    },
+    {
+        &tl_85#
+        Original English: "Damage increase from Equipment"
+        Translation: "装備によるダメージ増加"
+    },
+    {
+        &tl_86#
+        Original English: "Critical Strike Minimum Damage"
+        Translation: "クリティカル攻撃最小ダメージ"
+    },
+    {
+        &tl_87#
+        Original English: "Total Critical Strike Minimum Damage"
+        Translation: "総クリティカル攻撃最小ダメージ"
+    },
+    {
+        &tl_88#
+        Original English: "Damage increase from"
+        Translation: "ダメージ増加"
+    },
+    {
+        &tl_89#
+        Original English: "Attribute"
+        Translation: "能力値"
+    },
+    {
+        &tl_90#
+        Original English: "No weapons equipped."
+        Translation: "武器未装備。"
+    },
+    {
+        &tl_91#
+        Original English: "Melee Damage: RNG between Min and Max."
+        Translation: "近接ダメージ：最小値と最大値の間でランダム。"
+    },
+    {
+        &tl_92#
+        Original English: "Mainhand Minimum Weapon Damage"
+        Translation: "メインハンド最小武器ダメージ"
+    },
+    {
+        &tl_93#
+        Original English: "Mainhand Minimum Critical Weapon Damage"
+        Translation: "メインハンド最小クリティカル武器ダメージ"
+    },
+    {
+        &tl_94#
+        Original English: "Offhand damage can be increased via a perk."
+        Translation: "オフハンドダメージはパークで増加可能。"
+    },
+    {
+        &tl_95#
+        Original English: "Offhand Minimum Weapon Damage"
+        Translation: "オフハンド最小武器ダメージ"
+    },
+    {
+        &tl_96#
+        Original English: "Offhand Minimum Critical Weapon Damage"
+        Translation: "オフハンド最小クリティカル武器ダメージ"
+    },
+    {
+        &tl_97#
+        Original English: "Offhand damage is reduced by"
+        Translation: "オフハンドダメージの減少"
+    },
+    {
+        &tl_98#
+        Original English: "Offhand Maximum Weapon Damage"
+        Translation: "オフハンド最大武器ダメージ"
+    },
+    {
+        &tl_99#
+        Original English: "Offhand Maximum Critical Weapon Damage"
+        Translation: "オフハンド最大クリティカル武器ダメージ"
+    },
+    {
+        &tl_100#
+        Original English: "Mainhand Maximum Weapon Damage"
+        Translation: "メインハンド最大武器ダメージ"
+    },
+    {
+        &tl_101#
+        Original English: "Mainhand Maximum Critical Weapon Damage"
+        Translation: "メインハンド最大クリティカル武器ダメージ"
+    },
+    {
+        &tl_102#
+        Original English: "Critical Strike Maximum Damage"
+        Translation: "クリティカル攻撃最大ダメージ"
+    },
+    {
+        &tl_103#
+        Original English: "Total Critical Strike Maximum Damage"
+        Translation: "総クリティカル攻撃最大ダメージ"
+    },
+    {
+        &tl_104#
+        Original English: "Chance for melee and ranged weapon to perform a Critical Hit."
+        Translation: "近接・遠隔武器がクリティカル攻撃を行う確率。"
+    },
+    {
+        &tl_105#
+        Original English: "from Agility Attribute."
+        Translation: "の俊敏能力値による値。"
+    },
+    {
+        &tl_106#
+        Original English: "Amount of damage added to Critical Hits."
+        Translation: "クリティカル攻撃に加算されるダメージ量。"
+    },
+    {
+        &tl_107#
+        Original English: "Percent of Blunt Armor Rating ignored per instance of damage."
+        Translation: "ダメージ毎に無視する打撃防護値の割合。"
+    },
+    {
+        &tl_108#
+        Original English: "This value can't exceed 75% penetration."
+        Translation: "この値の貫通は75%が上限。"
+    },
+    {
+        &tl_109#
+        Original English: "Percent of Sharp Armor Rating ignored per instance of damage."
+        Translation: "ダメージ毎に無視する斬撃防護値の割合。"
+    },
+    {
+        &tl_110#
+        Original English: "Percent of Technomancy Armor Rating ignored per instance of damage."
+        Translation: "ダメージ毎に無視するテクノマンシー防護の割合。"
+    },
+    {
+        &tl_111#
+        Original English: "Rating amount of base weapon damage leeched as Health."
+        Translation: "基礎武器ダメージのうちHPとして吸収される値。"
+    },
+    {
+        &tl_112#
+        Original English: "rating from Equipment."
+        Translation: "の装備による値。"
+    },
+    {
+        &tl_113#
+        Original English: "rating from Vampirism Perk."
+        Translation: "の吸血パークによる値。"
+    },
+    {
+        &tl_114#
+        Original English: "rating from weapon passive ability."
+        Translation: "の武器パッシブによる値。"
+    },
+    {
+        &tl_115#
+        Original English: "Rating amount of base weapon damage leeched as Flux."
+        Translation: "基礎武器ダメージのうちFluxとして吸収される値。"
+    },
+    {
+        &tl_116#
+        Original English: "Rating amount of base weapon damage leeched as Stamina."
+        Translation: "基礎武器ダメージのうちスタミナとして吸収される値。"
+    },
+    {
+        &tl_117#
+        Original English: "Status Effect: Frost"
+        Translation: "状態異常：凍傷"
+    },
+    {
+        &tl_118#
+        Original English: "Chance to inflict the status effect with each instance of damage dealt."
+        Translation: "ダメージ毎に状態異常を付与する確率。"
+    },
+    {
+        &tl_119#
+        Original English: "Enemies inflicted by frost have slowed movement, attack speed and reaction speed."
+        Translation: "凍傷の敵は移動・攻撃・反応速度が低下する。"
+    },
+    {
+        &tl_120#
+        Original English: "Status Effect: Heat"
+        Translation: "状態異常：炎上"
+    },
+    {
+        &tl_121#
+        Original English: "Chance to inflict the status effect with each instance of damage dealt."
+        Translation: "ダメージ毎に状態異常を付与する確率。"
+    },
+    {
+        &tl_122#
+        Original English: "Damage overtime for the duration of the debuff."
+        Translation: "デバフ持続中、継続ダメージを与える。"
+    },
+    {
+        &tl_123#
+        Original English: "Duration between ticks is based of your Intelligence Attribute."
+        Translation: "ダメージ間隔は知性能力値に依存する。"
+    },
+    {
+        &tl_124#
+        Original English: "Time between ticks is"
+        Translation: "ダメージ間隔"
+    },
+    {
+        &tl_125#
+        Original English: "seconds."
+        Translation: "秒。"
+    },
+    {
+        &tl_126#
+        Original English: "Status Effect: Decay"
+        Translation: "状態異常：崩壊"
+    },
+    {
+        &tl_127#
+        Original English: "Chance to inflict the status effect with each instance of damage dealt."
+        Translation: "ダメージ毎に状態異常を付与する確率。"
+    },
+    {
+        &tl_128#
+        Original English: "Reduce Attack Power by 5% per stack."
+        Translation: "スタック毎に攻撃力を5%低下。"
+    },
+    {
+        &tl_129#
+        Original English: "Reduce all Armor Ratings by 3% per stack."
+        Translation: "スタック毎に全防護値を3%低下。"
+    },
+    {
+        &tl_130#
+        Original English: "Status Effect: Silence"
+        Translation: "状態異常：沈黙"
+    },
+    {
+        &tl_131#
+        Original English: "Chance to inflict the status effect with each instance of damage dealt."
+        Translation: "ダメージ毎に状態異常を付与する確率。"
+    },
+    {
+        &tl_132#
+        Original English: "Silence prevents targets from casting any abilities."
+        Translation: "沈黙は対象のあらゆるアビリティ詠唱を阻止します。"
+    },
+    {
+        &tl_133#
+        Original English: "Silence does not interrupt an ability already in progress."
+        Translation: "発動中のアビリティを中断することはありません。"
+    },
+    {
+        &tl_134#
+        Original English: "If the target is immune to silence, instead reduce their ability damage by 5% per stack of the debuff."
+        Translation: "対象が沈黙に免疫を持つ場合、代わりにデバフのスタック毎にアビリティダメージを5%低下させます。"
+    },
+    {
+        &tl_135#
+        Original English: "Maximum is 75%."
+        Translation: "75%が上限。"
+    },
+    {
+        &tl_136#
+        Original English: "Experience Gain"
+        Translation: "経験獲得"
+    },
+    {
+        &tl_137#
+        Original English: "Modifier for experience gain."
+        Translation: "経験獲得の倍率。"
+    },
+    {
+        &tl_138#
+        Original English: "Can be affected by gear or concoctions."
+        Translation: "装備や調合薬の影響を受けます。"
+    },
+    {
+        &tl_139#
+        Original English: "Addition from Helmet Augment"
+        Translation: "兜の増強による追加"
+    },
+    {
+        &tl_140#
+        Original English: "Penalty from corpses"
+        Translation: "死体によるペナルティ"
+    },
+    {
+        &tl_141#
+        Original English: "Addition from Amulet Augment"
+        Translation: "護符の増強による追加"
+    },
+    {
+        &tl_142#
+        Original English: "Addition from Concoction"
+        Translation: "調合薬による追加"
+    },
+    {
+        &tl_143#
+        Original English: "Amount of stamina recovered per second."
+        Translation: "毎秒回復するスタミナ量。"
+    },
+    {
+        &tl_144#
+        Original English: "reduction from Encumbrance."
+        Translation: "の重量負荷による減少。"
+    },
+    {
+        &tl_145#
+        Original English: "Regen without reduction is"
+        Translation: "減少前の回復量"
+    },
+    {
+        &tl_146#
+        Original English: "per second."
+        Translation: "毎秒。"
+    },
+    {
+        &tl_147#
+        Original English: "damage and additional"
+        Translation: "ダメージと追加"
+    },
+    {
+        &tl_148#
+        Original English: "from"
+        Translation: "から"
+    },
+    {
+        &tl_149#
+        Original English: "attribute per instance of damage for a total of"
+        Translation: "能力値からダメージ毎、合計"
+    },
+    {
+        &tl_150#
+        Original English: "damage."
+        Translation: "ダメージ。"
+    },
+    {
+        &tl_151#
+        Original English: "Sharp"
+        Translation: "斬撃"
+    },
+    {
+        &tl_152#
+        Original English: "Blunt"
+        Translation: "打撃"
+    },
+    {
+        &tl_153#
+        Original English: "Technomancy"
+        Translation: "テクノマンシー"
+    },
+    {
+        &tl_154#
+        Original English: "Area is unstable. The mirage refuses to leave its case."
+        Translation: "区画が不安定です。ミラージュは顕現できません。"
+    },
+    {
+        &tl_155#
+        Original English: "A homunculus mirage cannot be placed with hostiles nearby."
+        Translation: "近くに敵がいるとき、ホムンクルス・ミラージュは顕現できません。"
+    },
+    {
+        &tl_156#
+        Original English: "Return to a homunculus to acquire a mirage."
+        Translation: "ホムンクルスへ戻りミラージュを取得します。"
+    },
+    {
+        &tl_157#
+        Original English: "Something is preventing you from taking this item."
+        Translation: "このアイテムの取得を何かが阻害しています。"
+    },
+    {
+        &tl_158#
+        Original English: "Can't use this while Homunculus Mirage is active."
+        Translation: "ホムンクルス・ミラージュの顕現中は使用不可。"
+    },
+    {
+        &tl_159#
+        Original English: "Only the host can activate Homunculus Mirage."
+        Translation: "ホムンクルス・ミラージュを顕現できるのはホストのみです。"
+    },
+    {
+        &tl_160#
+        Original English: "Only the host can initiate this portal."
+        Translation: "このポータルを起動できるのはホストのみ。"
+    },
+    {
+        &tl_161#
+        Original English: "Transport is already here."
+        Translation: "転移装置は既にこの場にある。"
+    },
+    {
+        &tl_162#
+        Original English: "You can't do that in combat."
+        Translation: "戦闘中は不可能です。"
+    },
+    {
+        &tl_163#
+        Original English: "Invitation can only be accepted from title screen."
+        Translation: "招待はタイトル画面でのみ受諾できます。"
+    },
+    {
+        &tl_164#
+        Original English: "Only avaliable on experimental branch."
+        Translation: "実験ブランチでのみ利用可能。"
+    },
+    {
+        &tl_165#
+        Original English: "Somewhere, a door closed."
+        Translation: "どこかで、扉が閉じた。"
+    },
+    {
+        &tl_166#
+        Original English: "Somewhere, a door opened."
+        Translation: "どこかで、扉が開いた。"
+    },
+    {
+        &tl_167#
+        Original English: "Closed. Use lever to open."
+        Translation: "閉鎖中。レバーで開いてください。"
+    },
+    {
+        &tl_168#
+        Original English: "Only the host can interrupt cutscene."
+        Translation: "カットシーンを中断できるのはホストのみです。"
+    },
+    {
+        &tl_169#
+        Original English: "This action can't be unbinded."
+        Translation: "この動作は割当解除できません。"
+    },
+    {
+        &tl_170#
+        Original English: "Text Copied."
+        Translation: "テキストをコピーしました。"
+    },
+    {
+        &tl_171#
+        Original English: "Kicked player."
+        Translation: "プレイヤーを追放しました。"
+    },
+    {
+        &tl_172#
+        Original English: "Removed by host."
+        Translation: "ホストにより除外されました。"
+    },
+    {
+        &tl_173#
+        Original English: "Kicked"
+        Translation: "追放"
+    },
+    {
+        &tl_174#
+        Original English: "Currently disabled."
+        Translation: "現在無効です。"
+    },
+    {
+        &tl_175#
+        Original English: "Only the host can place Homunculus Mirage."
+        Translation: "ホムンクルス・ミラージュを顕現できるのはホストのみです。"
+    },
+    {
+        &tl_176#
+        Original English: "Homunculus Mirage dissipates."
+        Translation: "ホムンクルス・ミラージュが消散します。"
+    },
+    {
+        &tl_177#
+        Original English: "This action can't be used now."
+        Translation: "この動作は今使用できません。"
+    },
+    {
+        &tl_178#
+        Original English: "The homunculus refuses to answer."
+        Translation: "ホムンクルスは応答を拒んでいます。"
+    },
+    {
+        &tl_179#
+        Original English: "Only the host can initiate fast travel."
+        Translation: "ファストトラベルを開始できるのはホストのみです。"
+    },
+    {
+        &tl_180#
+        Original English: "Get closer to other players."
+        Translation: "他プレイヤーに近付いてください。"
+    },
+    {
+        &tl_181#
+        Original English: "Host is trying to place a Homunculus Mirage, get closer to the host."
+        Translation: "ホストがホムンクルス・ミラージュを顕現しようとしています。ホストへ近付いてください。"
+    },
+    {
+        &tl_182#
+        Original English: "Can't be used right now."
+        Translation: "今は使用できません。"
+    },
+    {
+        &tl_183#
+        Original English: "Max capacity per session reached."
+        Translation: "セッションの最大人数に到達しました。"
+    },
+    {
+        &tl_184#
+        Original English: "Kicked player: Reason: Overpopulation."
+        Translation: "プレイヤーを追放しました。理由：人数超過。"
+    },
+    {
+        &tl_185#
+        Original English: "Only the host can initiate recalibration."
+        Translation: "再調整を開始できるのはホストのみです。"
+    },
+    {
+        &tl_186#
+        Original English: "Currently can't move forward."
+        Translation: "現在前進できません。"
+    },
+    {
+        &tl_187#
+        Original English: "Dismiss"
+        Translation: "閉じる"
+    },
+    {
+        &tl_188#
+        Original English: "Expand"
+        Translation: "開く"
+    },
+    {
+        &tl_189#
+        Original English: "Locked."
+        Translation: "Locked."
+    },
+    {
+        &tl_190#
+        Original English: "This gate can't be opened."
+        Translation: "このゲートは開けられません。"
+    }
+]

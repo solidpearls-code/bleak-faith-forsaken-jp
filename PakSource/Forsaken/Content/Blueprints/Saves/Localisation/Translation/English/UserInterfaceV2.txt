@@ -1,0 +1,1102 @@
+[
+    {
+        &ui_0#
+        Original English: "Refill Belt Slot"
+        Translation: "ベルト枠補充"
+    },
+    {
+        &ui_1#
+        Original English: "Switch Panel"
+        Translation: "パネル切替"
+    },
+    {
+        &ui_2#
+        Original English: "Sort: All Items"
+        Translation: "整列：全品目"
+    },
+    {
+        &ui_3#
+        Original English: "Sort: Equipment"
+        Translation: "整列：装備"
+    },
+    {
+        &ui_4#
+        Original English: "Sort: Armors"
+        Translation: "整列：防具"
+    },
+    {
+        &ui_5#
+        Original English: "Sort: Weapons"
+        Translation: "整列：武器"
+    },
+    {
+        &ui_6#
+        Original English: "Sort: Consumables"
+        Translation: "整列：消耗品"
+    },
+    {
+        &ui_7#
+        Original English: "Sort: Resources"
+        Translation: "整列：素材"
+    },
+    {
+        &ui_8#
+        Original English: "Sort: Crystals"
+        Translation: "整列：結晶"
+    },
+    {
+        &ui_9#
+        Original English: "Sort: Quest Items"
+        Translation: "整列：クエストアイテム"
+    },
+    {
+        &ui_10#
+        Original English: "What would you like to do with"
+        Translation: "どのようにしますか？"
+    },
+    {
+        &ui_return#
+        Original English: "Return"
+        Translation: "戻る"
+    },
+    {
+        &ui_accept#
+        Original English: "Accept Changes"
+        Translation: "変更を確定"
+    },
+    {
+        &ui_discard#
+        Original English: "Discard Changes"
+        Translation: "変更を破棄"
+    },
+    {
+        &ui_engrave#
+        Original English: "Embed Perk"
+        Translation: "パークを刻印"
+    },
+    {
+        &ui_dupgrades#
+        Original English: "View Upgrades"
+        Translation: "アップグレード一覧"
+    },
+    {
+        &ui_perkwarning#
+        Original English: "This action is irreversible, once selected this perk can't be removed or changed. Select this perk for 1 Perk Essence?"
+        Translation: "この行為は不可逆です。一度選択したパークは除去も変更もできません。パークエッセンス1にこのパークを選択しますか？"
+    },
+    {
+        &ui_yes#
+        Original English: "Yes"
+        Translation: "Yes"
+    },
+    {
+        &ui_no#
+        Original English: "No"
+        Translation: "No"
+    },
+    {
+        &ui_perkdecide#
+        Original English: "Decide what to do with this perk."
+        Translation: "このパークの処理を決定してください。"
+    },
+    {
+        &ui_btnStats#
+        Original English: "STATS"
+        Translation: "能力値"
+    },
+    {
+        &ui_btnPerks#
+        Original English: "PERKS"
+        Translation: "パーク"
+    },
+    {
+        &ui_btnAbilities#
+        Original English: "ABILITIES"
+        Translation: "アビリティ"
+    },
+    {
+        &ui_btnBackpack#
+        Original English: "BACKPACK"
+        Translation: "所持品"
+    },
+    {
+        &ui_btnEquipment#
+        Original English: "Equipment"
+        Translation: "装備"
+    },
+    {
+        &ui_abilityemptywarning#
+        Original English: "Active abilities can be changed./nImplant this active ability for 1 Ability Splinters?"
+        Translation: "アビリティは変更可能です。/nアビリティスプリンター1にこのアビリティを埋込みますか？"
+    },
+    {
+        &ui_abilitywarning#
+        Original English: "This action will replace current active ability./nImplant this active ability for 3 Ability Splinters?"
+        Translation: "現在のアビリティを置き換えます。/nアクティブスプリンター3にこのアビリティを埋込みますか？"
+    },
+    {
+        &ui_btnShowAbilities#
+        Original English: "Display Ability"
+        Translation: "アビリティ表示"
+    },
+    {
+        &ui_select#
+        Original English: "Select"
+        Translation: "選択"
+    },
+    {
+        &ui_btnSwitch#
+        Original English: "Switch"
+        Translation: "切替"
+    },
+    {
+        &ui_btnEquip#
+        Original English: "Equip"
+        Translation: "装着"
+    },
+    {
+        &ui_btnUnequip#
+        Original English: "Unequip"
+        Translation: "解除"
+    },
+    {
+        &ui_btnRefill#
+        Original English: "Refill"
+        Translation: "補充"
+    },
+    {
+        &ui_btnDestroy#
+        Original English: "Destroy"
+        Translation: "破壊"
+    },
+    {
+        &ui_btnExtractOne#
+        Original English: "Extract One"
+        Translation: "1つ抽出する"
+    },
+    {
+        &ui_btnExtractAll#
+        Original English: "Extract All"
+        Translation: "全て抽出する"
+    },
+    {
+        &ui_btnDetails#
+        Original English: "Details"
+        Translation: "詳細"
+    },
+    {
+        &ui_itemUpgradeWarning#
+        Original English: "Are you sure you wish to upgrade"
+        Translation: "アップグレードしますか？"
+    },
+    {
+        &ui_detectedChanges#
+        Original English: "Changes on this item are detected.Do you wish to apply them?"
+        Translation: "このアイテムへの変更を検出しました。適用しますか？"
+    },
+    {
+        &ui_fragmentOverride#
+        Original English: "This slot is not empty, replacing current crystal will cause original to be destroyed."
+        Translation: "このスロットは空ではありません。結晶を置き換えると既存の結晶は破壊されます。"
+    },
+    {
+        &ui_interact#
+        Original English: "INTERACT"
+        Translation: "INTERACT"
+    },
+    {
+        &ui_interactLoot#
+        Original English: "LOOT"
+        Translation: "LOOT"
+    },
+    {
+        &ui_interactSpeak#
+        Original English: "SPEAK"
+        Translation: "SPEAK"
+    },
+    {
+        &ui_interactSystem#
+        Original English: "SYSTEM"
+        Translation: "SYSTEM"
+    },
+    {
+        &ui_interactTeleport#
+        Original English: "TELEPORT"
+        Translation: "TELEPORT"
+    },
+    {
+        &ui_interactLocked#
+        Original English: "LOCKED"
+        Translation: "LOCKED"
+    },
+    {
+        &ui_unassigned#
+        Original English: "Unassigned"
+        Translation: "未割当"
+    },
+    {
+        &ui_primaryActives#
+        Original English: "Primary Actives"
+        Translation: "主アクティブ"
+    },
+    {
+        &ui_secondaryActives#
+        Original English: "Secondary Actives"
+        Translation: "副アクティブ"
+    },
+    {
+        &ui_augments#
+        Original English: "Augments"
+        Translation: "能力強化"
+    },
+    {
+        &ui_upgrades#
+        Original English: "Upgrades"
+        Translation: "アップグレード"
+    },
+    {
+        &ui_minDamage#
+        Original English: "Minimum Damage"
+        Translation: "最小ダメージ"
+    },
+    {
+        &ui_maxDamage#
+        Original English: "Maximum Damage"
+        Translation: "最大ダメージ"
+    },
+    {
+        &ui_attackPower#
+        Original English: "Attack Power"
+        Translation: "攻撃力"
+    },
+    {
+        &ui_attackSpeed#
+        Original English: "Attack Speed"
+        Translation: "攻撃速度"
+    },
+    {
+        &ui_health#
+        Original English: "Health"
+        Translation: "HP"
+    },
+    {
+        &ui_flux#
+        Original English: "Flux"
+        Translation: "Flux"
+    },
+    {
+        &ui_stamina#
+        Original English: "Stamina"
+        Translation: "スタミナ"
+    },
+    {
+        &ui_entropy#
+        Original English: "Entropy"
+        Translation: "エントロピー"
+    },
+    {
+        &ui_staminaRecovery#
+        Original English: "Stamina Recovery"
+        Translation: "スタミナ回復"
+    },
+    {
+        &ui_staminaDelay#
+        Original English: "Delay Before Stamina Recovery"
+        Translation: "スタミナ回復遅延"
+    },
+    {
+        &ui_strength#
+        Original English: "Strength"
+        Translation: "筋力"
+    },
+    {
+        &ui_agility#
+        Original English: "Agility"
+        Translation: "俊敏"
+    },
+    {
+        &ui_int#
+        Original English: "Intelligence"
+        Translation: "知性"
+    },
+    {
+        &ui_con#
+        Original English: "Constitution"
+        Translation: "体質"
+    },
+    {
+        &ui_critChance#
+        Original English: "Critical Chance"
+        Translation: "クリティカル率"
+    },
+    {
+        &ui_critDamage#
+        Original English: "Critical Damage"
+        Translation: "クリティカルダメージ"
+    },
+    {
+        &ui_effectsChance#
+        Original English: "Status Effects Chance"
+        Translation: "状態異常付与確率"
+    },
+    {
+        &ui_bluntRes#
+        Original English: "Blunt Armor Rating"
+        Translation: "打撃防護値"
+    },
+    {
+        &ui_sharpRes#
+        Original English: "Sharp Armor Rating"
+        Translation: "斬撃防護値"
+    },
+    {
+        &ui_techRes#
+        Original English: "Technomancy Armor Rating"
+        Translation: "テクノマンシー防護"
+    },
+    {
+        &ui_moveSpeed#
+        Original English: "Movement Speed"
+        Translation: "移動速度"
+    },
+    {
+        &ui_recalibrate#
+        Original English: "RECALIBRATE"
+        Translation: "RECALIBRATE"
+    },
+    {
+        &ui_encumbrance#
+        Original English: "Encumbrance"
+        Translation: "重量負荷"
+    },
+    {
+        &ui_silence#
+        Original English: "Silence"
+        Translation: "沈黙"
+    },
+    {
+        &ui_heat#
+        Original English: "Heat"
+        Translation: "炎上"
+    },
+    {
+        &ui_frost#
+        Original English: "Frost"
+        Translation: "凍傷"
+    },
+    {
+        &ui_decay#
+        Original English: "Decay"
+        Translation: "崩壊"
+    },
+    {
+        &ui_spellSpeed#
+        Original English: "Technocasting Speed"
+        Translation: "テクノ詠唱速度"
+    },
+    {
+        &ui_weaponWeight#
+        Original English: "Weapon Encumbrance"
+        Translation: "武器重量"
+    },
+    {
+        &ui_stagger#
+        Original English: "Stagger Resistance"
+        Translation: "怯み耐性"
+    },
+    {
+        &ui_bluntPen#
+        Original English: "Blunt Penetration"
+        Translation: "打撃貫通"
+    },
+    {
+        &ui_sharpPen#
+        Original English: "Sharp Penetration"
+        Translation: "斬撃貫通"
+    },
+    {
+        &ui_techPen#
+        Original English: "Technomancy Penetration"
+        Translation: "テクノマンシー貫通"
+    },
+    {
+        &ui_hpLeech#
+        Original English: "Health Leech Rating"
+        Translation: "HP吸収値"
+    },
+    {
+        &ui_fxLeech#
+        Original English: "Flux Leech Rating"
+        Translation: "Flux吸収値"
+    },
+    {
+        &ui_stLeech#
+        Original English: "Stamina Leech Rating"
+        Translation: "スタミナ吸収値"
+    },
+    {
+        &ui_stShield#
+        Original English: "Shield Stamina"
+        Translation: "シールドスタミナ"
+    },
+    {
+        &ui_embedFrag#
+        Original English: "Embed Crystals"
+        Translation: "結晶を埋込む"
+    },
+    {
+        &ui_upgradeItem#
+        Original English: "Upgrade Item"
+        Translation: "アイテムのアップグレード"
+    },
+    {
+        &ui_itemUpgradeWarning_cost#
+        Original English: "Upgrading it will consume"
+        Translation: "アップグレードに要する素材："
+    },
+    {
+        &ui_overwriteAcc#
+        Original English: "Overwrite Character"
+        Translation: "キャラクター上書き"
+    },
+    {
+        &ui_deleteAcc#
+        Original English: "Delete Character"
+        Translation: "キャラクター削除"
+    },
+    {
+        &ui_climb#
+        Original English: "Climb"
+        Translation: "Climb"
+    },
+    {
+        &ui_entropyWarning#
+        Original English: "YOUR ENTROPY GROWS"
+        Translation: "エントロピー増大"
+    },
+    {
+        &ui_handlerSync#
+        Original English: "Handler Synchronised"
+        Translation: "ハンドラ同期"
+    },
+    {
+        &ui_btnUpgrading#
+        Original English: "Upgrading"
+        Translation: "アップグレード"
+    },
+    {
+        &ui_btnManufacturing#
+        Original English: "Manufacturing"
+        Translation: "製作"
+    },
+    {
+        &ui_whatDoItem#
+        Original English: "What would you like to do with"
+        Translation: "どのようにしますか？"
+    },
+    {
+        &ui_alreadyHasAbility#
+        Original English: "You already have this ability selected."
+        Translation: "既にこのアビリティを選択しています。"
+    },
+    {
+        &ui_notEnoughEssenceForActive1#
+        Original English: "You do not have enough"
+        Translation: "不足："
+    },
+    {
+        &ui_notEnoughEssenceForActive2#
+        Original English: "to do that. Requred:"
+        Translation: "必要数："
+    },
+    {
+        &ui_vsyncDisabled#
+        Original English: "V-Sync has been set to disabled. Disabling V-Sync is known to cause many unforeseen in-game issues. If you experience physics related issues, turn v-sync on./nRevert changes?"
+        Translation: "VSyncを無効に設定しました。無効化は予期せぬ不具合を招く場合があり、異常があれば有効にしてください。/n変更を戻しますか？"
+    },
+    {
+        &ui_newHandlerSync#
+        Original English: "New Handler Synchronisation"
+        Translation: "新たなハンドラ同期"
+    },
+    {
+        &ui_clearEnemies#
+        Original English: "Ensure all nearby enemies are dead before returning here."
+        Translation: "ここへ戻る前に近隣の敵を殲滅してください。"
+    },
+    {
+        &ui_absorbedEssence#
+        Original English: "Essence Absorbed"
+        Translation: "エッセンス吸収"
+    },
+    {
+        &ui_recalibrationFailure#
+        Original English: "State of cyberspace remains volatile."
+        Translation: "サイバー空間にまだ揺らぎがあります。"
+    },
+    {
+        &ui_spectating#
+        Original English: "SPECTATING"
+        Translation: "観戦中"
+    },
+    {
+        &ui_spectating_cd#
+        Original English: "Until forced revive"
+        Translation: "強制復活まで"
+    },
+    {
+        &ui_bossEncounter#
+        Original English: "Spectacting : Boss Encounter"
+        Translation: "観戦：ボス戦"
+    },
+    {
+        &ui_firstRec#
+        Original English: "RECALIBRATION SUCCESSFUL"
+        Translation: "RECALIBRATION SUCCESSFUL"
+    },
+    {
+        &ui_secondRec#
+        Original English: "FINAL RECALIBRATION SUCCESSFUL"
+        Translation: "FINAL RECALIBRATION SUCCESSFUL"
+    },
+    {
+        &ui_echoCollected#
+        Original English: "ECHO COLLECTED"
+        Translation: "ECHO COLLECTED"
+    },
+    {
+        &ui_stageClear#
+        Original English: "STAGE CLEARED"
+        Translation: "STAGE CLEARED"
+    },
+    {
+        &ui_stageFailed#
+        Original English: "STAGE FAILED"
+        Translation: "STAGE FAILED"
+    },
+    {
+        &ui_teamA_Victory#
+        Original English: "TEAM A VICTORY!"
+        Translation: "TEAM A VICTORY!"
+    },
+    {
+        &ui_teamB_Victory#
+        Original English: "TEAM B VICTORY!"
+        Translation: "TEAM B VICTORY!"
+    },
+    {
+        &ui_essenceStabilised#
+        Original English: "PERK ESSENCE STABILIZED"
+        Translation: "PERK ESSENCE STABILIZED"
+    },
+    {
+        &ui_essenceReturn_Konrad#
+        Original English: "TRAITOR'S ESSENCE RETURNED"
+        Translation: "TRAITOR'S ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Nemesis#
+        Original English: "NEMESIS' ESSENCE RETURNED"
+        Translation: "NEMESIS' ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Aberrant#
+        Original English: "ABERRANT ESSENCE RETURNED"
+        Translation: "ABERRANT ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Nurgei#
+        Original English: "BLADEMASTER'S ESSENCE RETURNED"                                                                 
+        Translation: "BLADEMASTER'S ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Belisarius#
+        Original English: "ARCHINQUISITOR'S ESSENCE RETURNED"
+        Translation: "ARCHINQUISITOR'S ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Visage#
+        Original English: "SILICON ESSENCE RETURNED"
+        Translation: "SILICON ESSENCE RETURNED"
+    },
+    {
+        &ui_essenceReturn_Forsaken#
+        Original English: "YOUR ESSENCE RETURNED"
+        Translation: "YOUR ESSENCE RETURNED"               
+    },
+    {
+        &ui_essenceReturn_Wormlord#
+        Original English: "WORMLORD'S ESSENCE RETURNED"
+        Translation: "WORMLORD'S ESSENCE RETURNED"
+    },
+    {
+        &ui_totalWeight#
+        Original English: "Total Weight"
+        Translation: "総重量"
+    },
+    {
+        &ui_btnTrading#
+        Original English: "Trading"
+        Translation: "取引"
+    },
+    {
+        &ui_xpGain#
+        Original English: "Experience Gain"
+        Translation: "経験獲得"
+    },
+    {
+        &ui_btnIncrease#
+        Original English: "Increase"
+        Translation: "増加"
+    },
+    {
+        &ui_btnDecrease#
+        Original English: "Decrease"
+        Translation: "減少"
+    },
+    {
+        &ui_11#
+        Original English: "Remove Action"
+        Translation: "動作解除"
+    },
+    {
+        &ui_12#
+        Original English: "Data Logs"
+        Translation: "データログ"
+    },
+    {
+        &ui_13#
+        Original English: "Character"
+        Translation: "キャラクター"
+    },
+    {
+        &ui_14#
+        Original English: "Crafting"
+        Translation: "クラフト"
+    },
+    {
+        &ui_15#
+        Original English: "Backpack"
+        Translation: "所持品"
+    },
+    {
+        &ui_16#
+        Original English: "Apply Changes"
+        Translation: "変更を適用"
+    },
+    {
+        &ui_17#
+        Original English: "Exit"
+        Translation: "終了"
+    },
+    {
+        &ui_18#
+        Original English: "Coordinates:"
+        Translation: "座標："
+    },
+    {
+        &ui_19#
+        Original English: "Switch Display"
+        Translation: "表示切替"
+    },
+    {
+        &ui_20#
+        Original English: "Craft One"
+        Translation: "1つクラフト"
+    },
+    {
+        &ui_21#
+        Original English: "Craft Max"
+        Translation: "最大数クラフト"
+    },
+    {
+        &ui_22#
+        Original English: "Per Craft"
+        Translation: "クラフト"
+    },
+    {
+        &ui_23#
+        Original English: "Attributes"
+        Translation: "属性"
+    },
+    {
+        &ui_24#
+        Original English: "Primary Stats"
+        Translation: "主能力値"
+    },
+    {
+        &ui_25#
+        Original English: "Secondary Stats"
+        Translation: "副能力値"
+    },
+    {
+        &ui_26#
+        Original English: "Weapon Stats"
+        Translation: "武器値"
+    },
+    {
+        &ui_27#
+        Original English: "Status Effects Chance"
+        Translation: "状態異常付与確率"
+    },
+    {
+        &ui_28#
+        Original English: "Points Left"
+        Translation: "残ポイント"
+    },
+    {
+        &ui_29#
+        Original English: "Return to Handler"
+        Translation: "ハンドラへ帰還してください"
+    },
+    {
+        &ui_30#
+        Original English: "Equipped Item"
+        Translation: "装備中"
+    },
+    {
+        &ui_31#
+        Original English: "Armors"
+        Translation: "防具"
+    },
+    {
+        &ui_32#
+        Original English: "Weapons"
+        Translation: "武器"
+    },
+    {
+        &ui_33#
+        Original English: "Consumables"
+        Translation: "消耗品"
+    },
+    {
+        &ui_34#
+        Original English: "Resources"
+        Translation: "素材"
+    },
+    {
+        &ui_35#
+        Original English: "ANOMALOUS CRYSTALS"
+        Translation: "アノマリー結晶"
+    },
+    {
+        &ui_36#
+        Original English: "ESSENTIAL AND AMMUNITION"
+        Translation: "必需品・弾薬"
+    },
+    {
+        &ui_37#
+        Original English: "ACESSORIES"
+        Translation: "装飾具"
+    },
+    {
+        &ui_38#
+        Original English: "SHIELDS"
+        Translation: "シールド"
+    },
+    {
+        &ui_39#
+        Original English: "ONE-HANDED WEAPONS"
+        Translation: "片手武器"
+    },
+    {
+        &ui_40#
+        Original English: "TWO-HANDED WEAPONS"
+        Translation: "両手武器"
+    },
+    {
+        &ui_41#
+        Original English: "RANGED WEAPONS"
+        Translation: "遠隔武器"
+    },
+    {
+        &ui_42#
+        Original English: "HELMETS"
+        Translation: "ヘルメット"
+    },
+    {
+        &ui_43#
+        Original English: "PAULDRONS"
+        Translation: "肩当"
+    },
+    {
+        &ui_44#
+        Original English: "CHESTGUARDS"
+        Translation: "胴鎧"
+    },
+    {
+        &ui_45#
+        Original English: "LEGGUARDS"
+        Translation: "脚甲"
+    },
+    {
+        &ui_46#
+        Original English: "GAUNTLETS"
+        Translation: "籠手"
+    },
+    {
+        &ui_47#
+        Original English: "CAPES"
+        Translation: "ケープ"
+    },
+    {
+        &ui_48#
+        Original English: "AMULETS"
+        Translation: "アミュレット"
+    },
+    {
+        &ui_49#
+        Original English: "RINGS"
+        Translation: "リング"
+    },
+    {
+        &ui_50#
+        Original English: "GREATWEAPONS"
+        Translation: "大武器"
+    },
+    {
+        &ui_51#
+        Original English: "TECHNOMANCY WEAPONS"
+        Translation: "テクノマンシー武器"
+    },
+    {
+        &ui_52#
+        Original English: "DUAL WEAPONS"
+        Translation: "双武器"
+    },
+    {
+        &ui_53#
+        Original English: "LIGHT"
+        Translation: "軽"
+    },
+    {
+        &ui_54#
+        Original English: "MEDIUM"
+        Translation: "中"
+    },
+    {
+        &ui_55#
+        Original English: "HEAVY"
+        Translation: "重"
+    },
+    {
+        &ui_56#
+        Original English: "Flux Cost"
+        Translation: "Flux消費"
+    },
+    {
+        &ui_57#
+        Original English: "Cooldown"
+        Translation: "クールダウン"
+    },
+    {
+        &ui_58#
+        Original English: "Empty Ability Slot"
+        Translation: "空アビリティスロット"
+    },
+    {
+        &ui_59#
+        Original English: "Requires Mk"
+        Translation: "要求Mk"
+    },
+    {
+        &ui_60#
+        Original English: "Mk"
+        Translation: "Mk"
+    },
+    {
+        &ui_61#
+        Original English: "rating"
+        Translation: " "
+    },
+    {
+        &ui_62#
+        Original English: "Sharp Onehanded"
+        Translation: "斬撃片手"
+    },
+    {
+        &ui_63#
+        Original English: "Blunt Onehanded"
+        Translation: "打撃片手"
+    },
+    {
+        &ui_64#
+        Original English: "Invokers Gauntlet"
+        Translation: "詠唱者の籠手"
+    },
+    {
+        &ui_65#
+        Original English: "Dual Wield"
+        Translation: "二刀流"
+    },
+    {
+        &ui_66#
+        Original English: "Twinblade"
+        Translation: "双刃"
+    },
+    {
+        &ui_67#
+        Original English: "Sharp Twohanded"
+        Translation: "両手斬撃"
+    },
+    {
+        &ui_68#
+        Original English: "Blunt Twohanded"
+        Translation: "両手打撃"
+    },
+    {
+        &ui_69#
+        Original English: "Sharp Greatweapon"
+        Translation: "斬撃大武器"
+    },
+    {
+        &ui_70#
+        Original English: "Blunt Greatweapon"
+        Translation: "打撃大武器"
+    },
+    {
+        &ui_71#
+        Original English: "Longbow"
+        Translation: "長弓"
+    },
+    {
+        &ui_72#
+        Original English: "Shield"
+        Translation: "シールド"
+    },
+    {
+        &ui_73#
+        Original English: "Torch"
+        Translation: "松明"
+    },
+    {
+        &ui_74#
+        Original English: "Sluggish"
+        Translation: "鈍重"
+    },
+    {
+        &ui_75#
+        Original English: "Slow"
+        Translation: "遅"
+    },
+    {
+        &ui_76#
+        Original English: "Fast"
+        Translation: "速"
+    },
+    {
+        &ui_77#
+        Original English: "Swift"
+        Translation: "迅速"
+    },
+    {
+        &ui_78#
+        Original English: "Shield"
+        Translation: "シールド"
+    },
+    {
+        &ui_79#
+        Original English: "Helmet"
+        Translation: "ヘルメット"
+    },
+    {
+        &ui_80#
+        Original English: "Shoulderpads"
+        Translation: "肩当"
+    },
+    {
+        &ui_81#
+        Original English: "Chestguard"
+        Translation: "胴鎧"
+    },
+    {
+        &ui_82#
+        Original English: "Gloves"
+        Translation: "籠手"
+    },
+    {
+        &ui_83#
+        Original English: "Legguards"
+        Translation: "脚甲"
+    },
+    {
+        &ui_84#
+        Original English: "Cape"
+        Translation: "ケープ"
+    },
+    {
+        &ui_85#
+        Original English: "Cloth Armor"
+        Translation: "布鎧"
+    },
+    {
+        &ui_86#
+        Original English: "Light Armor"
+        Translation: "軽鎧"
+    },
+    {
+        &ui_87#
+        Original English: "Medium Armor"
+        Translation: "中鎧"
+    },
+    {
+        &ui_88#
+        Original English: "Heavy Armor"
+        Translation: "重鎧"
+    },
+    {
+        &ui_89#
+        Original English: "Empty Stat Slot"
+        Translation: "空能力値スロット"
+    },
+    {
+        &ui_90#
+        Original English: "Amulet"
+        Translation: "アミュレット"
+    },
+    {
+        &ui_91#
+        Original English: "Ring"
+        Translation: "リング"
+    },
+    {
+        &ui_92#
+        Original English: "In Armor"
+        Translation: "防具内"
+    },
+    {
+        &ui_93#
+        Original English: "In Armor"
+        Translation: "防具内"
+    },
+    {
+        &ui_94#
+        Original English: "In Weapon"
+        Translation: "武器内"
+    },
+    {
+        &ui_95#
+        Original English: "Ability"
+        Translation: "アビリティ"
+    },
+    {
+        &ui_96#
+        Original English: "Passive"
+        Translation: "パッシブ"
+    },
+    {
+        &ui_97#
+        Original English: "Inventory Update"
+        Translation: "所持品更新"
+    },
+    {
+        &ui_98#
+        Original English: "Post Process Unlocked"
+        Translation: "ポストプロセス解放"
+    },
+    {
+        &ui_99#
+        Original English: "MANUFACTURE"
+        Translation: "MANUFACTURE"
+    }
+]

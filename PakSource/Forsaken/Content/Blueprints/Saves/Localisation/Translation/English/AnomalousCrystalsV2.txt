@@ -1,0 +1,267 @@
+[
+    {
+        &crystal_0#
+        Original English: "Max Health Points."
+        Translation: "最大HP"
+    },
+    {
+        &crystal_1#
+        Original English: "Max Flux Points."
+        Translation: "最大Flux"
+    },
+    {
+        &crystal_2#
+        Original English: "Max Stamina Points."
+        Translation: "最大スタミナ"
+    },
+    {
+        &crystal_3#
+        Original English: "Max Composure Points."
+        Translation: "最大統制"
+    },
+    {
+        &crystal_4#
+        Original English: "Entrophy Recovery per second."
+        Translation: "毎秒エントロピー回復"
+    },
+    {
+        &crystal_5#
+        Original English: "Health Recovery per second."
+        Translation: "毎秒HP回復"
+    },
+    {
+        &crystal_6#
+        Original English: "Flux Recovery per second."
+        Translation: "毎秒Flux回復"
+    },
+    {
+        &crystal_7#
+        Original English: "Stamina Recovery per second."
+        Translation: "毎秒スタミナ回復"
+    },
+    {
+        &crystal_8#
+        Original English: "Composure Recovery per second."
+        Translation: "毎秒統制回復"
+    },
+    {
+        &crystal_9#
+        Original English: "Delay Before Stamina Regenerates."
+        Translation: "スタミナ再生遅延"
+    },
+    {
+        &crystal_10#
+        Original English: "Delay Before Composure Regenerates."
+        Translation: "統制再生遅延"
+    },
+    {
+        &crystal_11#
+        Original English: "Strength."
+        Translation: "筋力"
+    },
+    {
+        &crystal_12#
+        Original English: "Agility."
+        Translation: "俊敏"
+    },
+    {
+        &crystal_13#
+        Original English: "Intelligence."
+        Translation: "知性"
+    },
+    {
+        &crystal_14#
+        Original English: "Constitution."
+        Translation: "体質"
+    },
+    {
+        &crystal_15#
+        Original English: "Critical Chance."
+        Translation: "クリティカル率"
+    },
+    {
+        &crystal_16#
+        Original English: "Critical Damage."
+        Translation: "クリティカルダメージ"
+    },
+    {
+        &crystal_17#
+        Original English: "Entropy Resistance."
+        Translation: "エントロピー耐性"
+    },
+    {
+        &crystal_18#
+        Original English: "Blunt Armor Rating."
+        Translation: "打撃防護値"
+    },
+    {
+        &crystal_19#
+        Original English: "Sharp Armor Rating."
+        Translation: "斬撃防護値"
+    },
+    {
+        &crystal_20#
+        Original English: "Technomancy Armor Rating."
+        Translation: "テクノマンシー防護"
+    },
+    {
+        &crystal_21#
+        Original English: "Poison Resistance."
+        Translation: "毒耐性"
+    },
+    {
+        &crystal_22#
+        Original English: "Bleed Resistance."
+        Translation: "出血耐性"
+    },
+    {
+        &crystal_23#
+        Original English: "Elemental Resistance."
+        Translation: "属性耐性"
+    },
+    {
+        &crystal_24#
+        Original English: "Decay Resistance."
+        Translation: "崩壊耐性"
+    },
+    {
+        &crystal_25#
+        Original English: "Inflict "
+        Translation: "付与"
+    },
+    {
+        &crystal_26#
+        Original English: "Leech "
+        Translation: "吸収"
+    },
+    {
+        &crystal_27#
+        Original English: "Attack Power."
+        Translation: "攻撃力"
+    },
+    {
+        &crystal_28#
+        Original English: "Attack Speed."
+        Translation: "攻撃速度"
+    },
+    {
+        &crystal_29#
+        Original English: "Health Leech Rating."
+        Translation: "HP吸収値"
+    },
+    {
+        &crystal_30#
+        Original English: "Flux Leech Rating."
+        Translation: "Flux吸収値"
+    },
+    {
+        &crystal_31#
+        Original English: "Stamina Leech Rating."
+        Translation: "スタミナ吸収値"
+    },
+    {
+        &crystal_32#
+        Original English: "Composure Leech Rating."
+        Translation: "統制吸収値"
+    },
+    {
+        &crystal_33#
+        Original English: "Of Weapon Damage As Health."
+        Translation: "武器損傷のHP変換"
+    },
+    {
+        &crystal_34#
+        Original English: "Of Weapon Damage As Flux."
+        Translation: "ダメージのFlux変換"
+    },
+    {
+        &crystal_35#
+        Original English: "Of Weapon Damage As Stamina."
+        Translation: "ダメージのスタミナ変換"
+    },
+    {
+        &crystal_36#
+        Original English: "Of Weapon Damage As Composure."
+        Translation: "ダメージの統制変換"
+    },
+    {
+        &crystal_37#
+        Original English: "Chance To Inflict Any Status Effect."
+        Translation: "状態異常付与確率"
+    },
+    {
+        &crystal_38#
+        Original English: "Chance To Silence Target."
+        Translation: "沈黙付与確率"
+    },
+    {
+        &crystal_39#
+        Original English: "Chance To Inflict Heat Status Effect."
+        Translation: "炎上状態異常付与確率"
+    },
+    {
+        &crystal_40#
+        Original English: "Chance To Inflict Frost Status Effect."
+        Translation: "凍傷状態異常付与確率"
+    },
+    {
+        &crystal_41#
+        Original English: "Chance To Inflict Decay Status Effect."
+        Translation: "崩壊状態異常付与確率"
+    },
+    {
+        &crystal_42#
+        Original English: "Blunt Armor Penetration."
+        Translation: "打撃防護貫通"
+    },
+    {
+        &crystal_43#
+        Original English: "Sharp Armor Penetration."
+        Translation: "斬撃防護貫通"
+    },
+    {
+        &crystal_44#
+        Original English: "Technomancy Penetration."
+        Translation: "テクノマンシー貫通"
+    },
+    {
+        &crystal_45#
+        Original English: "Movement Speed"
+        Translation: "移動速度"
+    },
+    {
+        &crystal_46#
+        Original English: "Technocasting Speed"
+        Translation: "テクノ詠唱速度"
+    },
+    {
+        &crystal_47#
+        Original English: "Armor Weight"
+        Translation: "防具重量"
+    },
+    {
+        &crystal_48#
+        Original English: "Weapon Weight"
+        Translation: "武器重量"
+    },
+    {
+        &crystal_49#
+        Original English: "Stagger Resistance"
+        Translation: "怯み耐性"
+    },
+    {
+        &crystal_50#
+        Original English: "Base Weapon Damage"
+        Translation: "基礎ダメージ"
+    },
+    {
+        &crystal_51#
+        Original English: "Removes Invincibility Frames"
+        Translation: "無敵フレーム無効"
+    },
+    {
+        &crystal_52#
+        Original English: "Halts Experience Gain"
+        Translation: "経験獲得停止"
+    }
+]

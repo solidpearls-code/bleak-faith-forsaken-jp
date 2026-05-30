@@ -1,0 +1,542 @@
+[
+    {
+        &help_2#
+        Original English: "Adjust the camera to face the character's movement direction when there is no camera input."
+        Translation: "カメラ入力がない時、キャラクターの移動方向にカメラを向ける。"
+    },
+    {
+        &help_3#
+        Original English: "Set to 0 to disable this feature."
+        Translation: "0に設定することで無効化。"
+    },
+    {
+        &help_26#
+        Original English: "Sprint is a separate button mapping."
+        Translation: "スプリントは独立したボタン割当。"
+    },
+    {
+        &help_27#
+        Original English: "Sprint is tied to Dodge button mapping."
+        Translation: "スプリントは回避ボタンと共有。"
+    },
+    {
+        &help_34#
+        Original English: "While locked on, press to roll."
+        Translation: "ロックオン中、押すとローリング。"
+    },
+    {
+        &help_35#
+        Original English: "Dash is a separate button mapping."
+        Translation: "ダッシュは独立したボタン割当。"
+    },
+    {
+        &help_36#
+        Original English: "Press to Dash."
+        Translation: "押すとダッシュ。"
+    },
+    {
+        &help_61#
+        Original English: "Holster Weapons is tied to Switch Weapons button mapping."
+        Translation: "武器収納は武器切替ボタンと共有。"
+    },
+    {
+        &help_64#
+        Original English: "Holster Weapons is a separate button mapping."
+        Translation: "武器収納は独立したボタン割当。"
+    },
+    {
+        &help_93#
+        Original English: "Without locked on, press to dash double press to roll."
+        Translation: "ロックオン非使用時、押すとダッシュ、二回押しでローリング。"
+    },
+    {
+        &help_94#
+        Original English: "Double press to Roll."
+        Translation: "二回押しでローリング。"
+    },
+    {
+        &help_1#
+        Original English: "Whether the character moves based on camera direction."
+        Translation: "キャラクターをカメラ方向基準で移動させるか。"
+    },
+    {
+        &help_4#
+        Original English: "Character will always strafe while weapons are unholstered."
+        Translation: "武器を構えている間、常に横移動する。"
+    },
+    {
+        &help_5#
+        Original English: "Character will only strafe if Lock-On is enabled while weapons are unholstered."
+        Translation: "武器構え中、ロックオン時のみ横移動する。"
+    },
+    {
+        &help_6#
+        Original English: "Character will never strafe."
+        Translation: "横移動を行わない。"
+    },
+    {
+        &help_7#
+        Original English: "Whether you attack facing camera or character direction."
+        Translation: "攻撃時の向きをカメラ方向にするかキャラクター方向にするか。"
+    },
+    {
+        &help_8#
+        Original English: "Always attack in the direction your character is facing."
+        Translation: "常にキャラクターの向きに攻撃する。"
+    },
+    {
+        &help_9#
+        Original English: "Attacks in direction your character is facing only when not Strafing."
+        Translation: "横移動以外の時のみキャラクター方向に攻撃する。"
+    },
+    {
+        &help_10#
+        Original English: "Attacks in direction your character is facing only when Strafing."
+        Translation: "横移動中のみキャラクター方向に攻撃する。"
+    },
+    {
+        &help_11#
+        Original English: "While locked on to the target, fire an arrow at it."
+        Translation: "ターゲットにロックオン中、矢を放つ。"
+    },
+    {
+        &help_12#
+        Original English: "Otherwise, it combines aiming and drawing the bow simultaneously."
+        Translation: "それ以外では、エイムと弓引きを同時に行う。"
+    },
+    {
+        &help_13#
+        Original English: "Always fires an arrow without entering aim mode, regardless of lock-on status."
+        Translation: "ロックオン状態に関わらず、エイムモードに入らず矢を放つ。"
+    },
+    {
+        &help_14#
+        Original English: "Always combines aiming and drawing the bow simultaneously, regardless of lock-on status."
+        Translation: "ロックオン状態に関わらず、常にエイムと弓引きを同時に行う。"
+    },
+    {
+        &help_15#
+        Original English: "Whether you swim facing camera direction."
+        Translation: "水泳時にカメラ方向を向くか。"
+    },
+    {
+        &help_16#
+        Original English: "This option will disable Loading Screen in between zones."
+        Translation: "ゾーン間のロード画面を無効化する。"
+    },
+    {
+        &help_17#
+        Original English: "Toggling this can cause severe FPS stutters and character falling through elevators on weaker machines."
+        Translation: "低性能環境では、深刻なFPSスタッターやエレベーター貫通の不具合を引き起こす場合あり。"
+    },
+    {
+        &help_18#
+        Original English: "Whether to display ingame tutorials."
+        Translation: "ゲーム内チュートリアルを表示するか。"
+    },
+    {
+        &help_19#
+        Original English: "Duration after which characters corpses dissapear."
+        Translation: "死体が消失するまでの時間。"
+    },
+    {
+        &help_20#
+        Original English: "Combo Timing is displayed as white glow on your weapons."
+        Translation: "コンボタイミングは武器の白い発光で表示される。"
+    },
+    {
+        &help_21#
+        Original English: "I-Frames Timing is displayed as transparent effect on your character."
+        Translation: "無敵フレームのタイミングはキャラクターの透過エフェクトで表示される。"
+    },
+    {
+        &help_22#
+        Original English: "Option to toggle cloaks visibility on and off."
+        Translation: "クロークの表示／非表示を切り替える。"
+    },
+    {
+        &help_23#
+        Original English: "Adjust the scale of the characters' HUD."
+        Translation: "キャラクターHUDのサイズを調整。"
+    },
+    {
+        &help_24#
+        Original English: "Automatically control the visibility of characters' HUD based on combat state."
+        Translation: "戦闘状態に応じてキャラクターHUDの表示を自動制御。"
+    },
+    {
+        &help_25#
+        Original English: "Controls the position of Combo Counters on the characters' HUD."
+        Translation: "キャラクターHUD上のコンボカウンター位置を制御。"
+    },
+    {
+        &help_28#
+        Original English: "Controls the position of Consumables on the characters' HUD."
+        Translation: "キャラクターHUD上の消耗品の位置を制御。"
+    },
+    {
+        &help_29#
+        Original English: "Toggle to hide the green outline during stamina recharge."
+        Translation: "スタミナ回復中の緑色アウトラインを非表示にする。"
+    },
+    {
+        &help_30#
+        Original English: "This visual cue is purely aesthetic and doesn't indicate the current stamina level."
+        Translation: "この演出は装飾のみで、現在のスタミナ量を示すものではない。"
+    },
+    {
+        &help_31#
+        Original English: "Toggle Chromatic Aberration in the User Interface."
+        Translation: "UIの色収差効果を切り替える。"
+    },
+    {
+        &help_32#
+        Original English: "Toggle the visibility of the Floating HUD that displays arrow/shield stats."
+        Translation: "矢／盾のステータスを表示するフローティングHUDの表示を切り替える。"
+    },
+    {
+        &help_33#
+        Original English: "Toggle the visibility of the Floating Damage Text."
+        Translation: "フローティングダメージ表示の有無を切り替える。"
+    },
+    {
+        &help_37#
+        Original English: "Controls the strength of the camera shake."
+        Translation: "カメラ振動の強さを調整。"
+    },
+    {
+        &help_38#
+        Original English: "Adjust the camera distance from the player character."
+        Translation: "プレイヤーキャラクターからのカメラ距離を調整。"
+    },
+    {
+        &help_39#
+        Original English: "Negative values result in a closer camera."
+        Translation: "マイナス値でカメラがより近付く。"
+    },
+    {
+        &help_40#
+        Original English: "Whether to have some control over the camera during Lock-On."
+        Translation: "ロックオン中もカメラを部分的に操作できるようにするか。"
+    },
+    {
+        &help_41#
+        Original English: "Automatically pick the closest target in combat to Lock-On once the current Lock-On target has been lost."
+        Translation: "現在のロックオン対象を失った際、戦闘中の最も近い敵を自動でロックオンする。"
+    },
+    {
+        &help_42#
+        Original English: "This only happens once the current target dies, is out of line of sight, or is beyond the maximum distance."
+        Translation: "現対象の死亡、視界外、最大距離超過のいずれかの時のみ作動。"
+    },
+    {
+        &help_43#
+        Original English: "Whether the character will always attack facing the Lock-On target, regardless of the Directional Attacks setting."
+        Translation: "「方向攻撃」設定に関わらず、常にロックオン対象に向かって攻撃するか。"
+    },
+    {
+        &help_44#
+        Original English: "Distance at which to clear the Lock-On target."
+        Translation: "ロックオンが解除される距離。"
+    },
+    {
+        &help_45#
+        Original English: "Speed at which the camera corrects itself towards the current Lock-On target."
+        Translation: "現在のロックオン対象へカメラが補正される速度。"
+    },
+    {
+        &help_46#
+        Original English: "Adjusts the volume of all sounds."
+        Translation: "全体のマスターボリュームを調整。"
+    },
+    {
+        &help_47#
+        Original English: "Adjusts the music volume."
+        Translation: "BGMのボリュームを調整。"
+    },
+    {
+        &help_48#
+        Original English: "Adjusts the volume of ambient sounds."
+        Translation: "環境音のボリュームを調整。"
+    },
+    {
+        &help_49#
+        Original English: "Adjusts the volume of sound effects."
+        Translation: "効果音（SFX）のボリュームを調整。"
+    },
+    {
+        &help_50#
+        Original English: "Adjusts the volume of the user interface."
+        Translation: "UIのボリュームを調整。"
+    },
+    {
+        &help_51#
+        Original English: "Adjusts the dialogue volume."
+        Translation: "会話のボリュームを調整。"
+    },
+    {
+        &help_52#
+        Original English: "Adjust the brightness of the game."
+        Translation: "画面の明るさを調整。"
+    },
+    {
+        &help_53#
+        Original English: "Adjust the sharpness of the textures."
+        Translation: "テクスチャのシャープネスを調整。"
+    },
+    {
+        &help_54#
+        Original English: "Adjust the saturation of the game."
+        Translation: "画面の彩度を調整。"
+    },
+    {
+        &help_55#
+        Original English: "Change a post-process shader for the game."
+        Translation: "ポストプロセスシェーダーを変更。"
+    },
+    {
+        &help_56#
+        Original English: "This is purely cosmetic and has no effect on gameplay."
+        Translation: "見た目のみの効果で、ゲームプレイには影響しない。"
+    },
+    {
+        &help_57#
+        Original English: "A maximum of 6 digits password for private online sessions."
+        Translation: "プライベートオンラインセッション用の最大6桁パスワード。"
+    },
+    {
+        &help_58#
+        Original English: "Adjust the sensitivity of the camera."
+        Translation: "カメラ感度を調整。"
+    },
+    {
+        &help_59#
+        Original English: "Adjust the aiming sensitivity of the camera."
+        Translation: "エイム時のカメラ感度を調整。"
+    },
+    {
+        &help_60#
+        Original English: "Toggle camera axis inversion."
+        Translation: "カメラ軸の反転を切り替える。"
+    },
+    {
+        &help_62#
+        Original English: "Adjust button keybinds."
+        Translation: "ボタン割当を調整。"
+    },
+    {
+        &help_63#
+        Original English: "Adjust sticks' vertical deadzone."
+        Translation: "スティックの縦方向デッドゾーンを調整。"
+    },
+    {
+        &help_65#
+        Original English: "Adjust sticks' horizontal deadzone."
+        Translation: "スティックの横方向デッドゾーンを調整。"
+    },
+    {
+        &help_66#
+        Original English: "Adjusts the haptic vibration of your controller."
+        Translation: "コントローラのハプティック振動を調整。"
+    },
+    {
+        &help_67#
+        Original English: "Whether to invert movement analog stick."
+        Translation: "移動アナログスティックを反転するか。"
+    },
+    {
+        &help_68#
+        Original English: "Whether to invert camera analog stick."
+        Translation: "カメラアナログスティックを反転するか。"
+    },
+    {
+        &help_69#
+        Original English: "Toggle Aim Assist when aiming with the controller."
+        Translation: "コントローラ使用時のエイムアシストを切り替える。"
+    },
+    {
+        &help_70#
+        Original English: "Toggle vibrations on or off."
+        Translation: "振動の有無を切り替える。"
+    },
+    {
+        &help_71#
+        Original English: "Toggle which gamepad icons are displayed."
+        Translation: "表示するゲームパッドアイコンを切り替える。"
+    },
+    {
+        &help_72#
+        Original English: "Change button mappings."
+        Translation: "ボタン割当を変更。"
+    },
+    {
+        &help_73#
+        Original English: "Display the controller button mapping scheme."
+        Translation: "コントローラのボタン割当を表示。"
+    },
+    {
+        &help_74#
+        Original English: "Toggle which button preset is used."
+        Translation: "使用するボタンプリセットを切り替える。"
+    },
+    {
+        &help_75#
+        Original English: "Type A button preset uses a modifier button and a "Touch-pad" style HUD."
+        Translation: "TypeAプリセットは修飾ボタンと「タッチパッド」式HUDを使用する。"
+    },
+    {
+        &help_76#
+        Original English: "Type B button preset is more common and uses buttons to cycle between belt slots and abilities."
+        Translation: "TypeBプリセットは一般的な配置で、ベルト枠とアビリティの切替にボタンを使用する。"
+    },
+    {
+        &help_77#
+        Original English: "Toggle which gamepad icons are displayed."
+        Translation: "表示するゲームパッドアイコンを切り替える。"
+    },
+    {
+        &help_78#
+        Original English: "Always attack in the direction your camera is facing."
+        Translation: "常にカメラの向きに攻撃する。"
+    },
+    {
+        &help_79#
+        Original English: "Toggle between toggle sprint or hold to sprint."
+        Translation: "スプリントの切替式と押し続け式を切り替える。"
+    },
+    {
+        &help_80#
+        Original English: "Toggle between fullscreen and windowed mode rendering."
+        Translation: "フルスクリーンとウィンドウモードを切り替える。"
+    },
+    {
+        &help_81#
+        Original English: "Borderless Window mode enables you to switch between apps while playing."
+        Translation: "ボーダーレスウィンドウモードならゲーム中に他アプリへ切替可能。"
+    },
+    {
+        &help_82#
+        Original English: "Adjust the game's width and height to any supported resolution."
+        Translation: "対応解像度の幅と高さを調整。"
+    },
+    {
+        &help_83#
+        Original English: "Lowering the resolution will increase performance but will significantly impact visual quality."
+        Translation: "解像度を下げるとパフォーマンスは向上するが、画質に大きく影響する。"
+    },
+    {
+        &help_84#
+        Original English: "Dynamically adjust your screen resolution based on your game performance."
+        Translation: "ゲームパフォーマンスに応じて画面解像度を動的に調整する。"
+    },
+    {
+        &help_85#
+        Original English: "Only turn this on if you are facing performance issues in some areas."
+        Translation: "一部エリアでパフォーマンスの問題がある場合のみ有効化する。"
+    },
+    {
+        &help_86#
+        Original English: "Deep Learning Super Sampling (DLSS) is an NVIDIA RTX technology that utilizes the power of AI to enhance your frame rates."
+        Translation: "Deep Learning Super Sampling (DLSS) はNVIDIA RTX技術で、AIによりフレームレートを向上させる。"
+    },
+    {
+        &help_87#
+        Original English: "Enabling this setting may result in significant motion blur."
+        Translation: "有効化すると著しいモーションブラーが発生する場合あり。"
+    },
+    {
+        &help_88#
+        Original English: "Adjust the rendering resolution without altering the window size."
+        Translation: "ウィンドウサイズを変えずにレンダリング解像度を調整する。"
+    },
+    {
+        &help_89#
+        Original English: "Reducing the resolution scale will enhance performance but will notably affect visual quality."
+        Translation: "解像度スケールを下げるとパフォーマンスは向上するが、画質に顕著な影響を与える。"
+    },
+    {
+        &help_90#
+        Original English: "Synchronize the game framerate with the monitor's vertical refresh rate for improved quality."
+        Translation: "ゲームのフレームレートをモニターの垂直リフレッシュレートに同期させ、画質を向上させる。"
+    },
+    {
+        &help_91#
+        Original English: "Disable refresh rate syncing for improved performance."
+        Translation: "リフレッシュレート同期を無効化してパフォーマンスを向上させる。"
+    },
+    {
+        &help_92#
+        Original English: "We recommend playing the game at 60 frames per second (FPS)."
+        Translation: "60フレーム毎秒（FPS）でのプレイを推奨。"
+    },
+    {
+        &help_95#
+        Original English: "Adjust the horizontal field of view (FOV) to determine how much of the world you can see."
+        Translation: "水平視野角（FOV）を調整し、視界の広さを決定する。"
+    },
+    {
+        &help_96#
+        Original English: "Increasing the FOV will have some performance impact. For a multi-monitor setup, you might want to reduce it to avoid stretching."
+        Translation: "FOVを上げるとパフォーマンスに影響あり。マルチモニター環境では引き伸ばし防止のため下げることを推奨。"
+    },
+    {
+        &help_97#
+        Original English: "Adjust the strength of motion blur."
+        Translation: "モーションブラーの強さを調整。"
+    },
+    {
+        &help_98#
+        Original English: "Adjust the view distance."
+        Translation: "視野距離を調整。"
+    },
+    {
+        &help_99#
+        Original English: "Adjust the quality of edge softening."
+        Translation: "エッジソフトニング（アンチエイリアス）の品質を調整。"
+    },
+    {
+        &help_100#
+        Original English: "Adjust the shadow quality."
+        Translation: "シャドウ品質を調整。"
+    },
+    {
+        &help_101#
+        Original English: "Toggle fog scattering effects for atmospheric rendering."
+        Translation: "大気表現用の霧散乱エフェクトを切り替える。"
+    },
+    {
+        &help_102#
+        Original English: "Disabling this can improve performance."
+        Translation: "無効化するとパフォーマンスが向上する。"
+    },
+    {
+        &help_103#
+        Original English: "Adjust the quality of post-processing effects."
+        Translation: "ポストプロセスエフェクトの品質を調整。"
+    },
+    {
+        &help_104#
+        Original English: "Adjust the quality of textures in the game."
+        Translation: "テクスチャ品質を調整。"
+    },
+    {
+        &help_105#
+        Original English: "Adjust the quality of visual effects in the game."
+        Translation: "ビジュアルエフェクト（VFX）の品質を調整。"
+    },
+    {
+        &help_106#
+        Original English: "Adjust the quality of foliage in the game."
+        Translation: "植物描画の品質を調整。"
+    },
+    {
+        &help_107#
+        Original English: "Minimizes screen tearing issues with a slight performance impact."
+        Translation: "ティアリングを軽減（わずかにパフォーマンス低下）。"
+    },
+    {
+        &help_108#
+        Original English: "Type A button preset uses a modifier button and a "D-Pad" style HUD."
+        Translation: "TypeAプリセットは修飾ボタンと「D-Pad」式HUDを使用する。"
+    }
+]
