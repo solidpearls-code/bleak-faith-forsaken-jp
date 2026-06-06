@@ -17,7 +17,7 @@
     {
         &tl_debuffFrost#
         Original English: "Status Effect Chance: Frost/n/nChance to inflict status effect per instance of damage done./nEnemies inflicted by frost are slowed."
-        Translation: "状態異常付与確率：凍傷/n/nダメージ毎に状態異常を付与する確率。/n凍傷を付与された敵は鈍化する。"
+        Translation: "状態異常付与確率：凍結/n/nダメージ毎に状態異常を付与する確率。/n凍結を付与された敵は鈍化する。"
     },
     {
         &tl_debuffDecay#
@@ -142,7 +142,7 @@
     {
         &tl_7#
         Original English: "Already reached maximum value increase."
-        Translation: "増加量は既に上限に到達しています。"
+        Translation: "増加量は既に上限に到達している。"
     },
     {
         &tl_8#
@@ -152,17 +152,17 @@
     {
         &tl_9#
         Original English: "Increases melee swing speed when above 15 points."
-        Translation: "15ポイント以上で近接攻撃速度が上昇します。"
+        Translation: "15ポイント以上で近接攻撃速度が上昇する。"
     },
     {
         &tl_10#
         Original English: "Increases movement speed when above 15 points."
-        Translation: "15ポイント以上で移動速度が上昇します。"
+        Translation: "15ポイント以上で移動速度が上昇する。"
     },
     {
         &tl_11#
         Original English: "Maximum increase to ranged weapon Draw Speed reached."
-        Translation: "遠隔武器の構え速度の増加量が上限に到達しています。"
+        Translation: "遠隔武器の構え速度の増加量が上限に到達している。"
     },
     {
         &tl_12#
@@ -182,12 +182,12 @@
     {
         &tl_15#
         Original English: "is applied to ranged draw speed."
-        Translation: "が遠隔構え速度に適用されます。"
+        Translation: "が遠隔構え速度に適用される。"
     },
     {
         &tl_16#
         Original English: "Maximum boss resistance to arrows reduction reached."
-        Translation: "ボスの矢耐性減少量が上限に到達しています。"
+        Translation: "ボスの矢耐性減少量が上限に到達している。"
     },
     {
         &tl_17#
@@ -197,7 +197,7 @@
     {
         &tl_18#
         Original English: "Maximum Stamina Delay reduction reached."
-        Translation: "スタミナ回復遅延の減少量が上限に到達しています。"
+        Translation: "スタミナ回復遅延の減少量が上限に到達している。"
     },
     {
         &tl_19#
@@ -222,7 +222,7 @@
     {
         &tl_23#
         Original English: "Maximum addition to Movement Speed has been reached."
-        Translation: "移動速度の増加量が上限に到達しています。"
+        Translation: "移動速度の増加量が上限に到達している。"
     },
     {
         &tl_24#
@@ -232,7 +232,7 @@
     {
         &tl_25#
         Original English: "Maximum addition to Melee Swing Speed has been reached."
-        Translation: "近接攻撃速度の増加量が上限に到達しています。"
+        Translation: "近接攻撃速度の増加量が上限に到達している。"
     },
     {
         &tl_26#
@@ -242,7 +242,7 @@
     {
         &tl_27#
         Original English: "Maximum increase to Critical Chance reached."
-        Translation: "クリティカル率の増加量が上限に到達しています。"
+        Translation: "クリティカル率の増加量が上限に到達している。"
     },
     {
         &tl_28#
@@ -267,7 +267,7 @@
     {
         &tl_32#
         Original English: "Maximum increase to stagger resistance reached."
-        Translation: "怯み耐性の増加量が上限に到達しています。"
+        Translation: "怯み耐性の増加量が上限に到達している。"
     },
     {
         &tl_33#
@@ -297,7 +297,7 @@
     {
         &tl_38#
         Original English: "Current green outline counts toward current Stamina count."
-        Translation: "現在の緑色アウトラインは現スタミナ量に追加されます。"
+        Translation: "現在の緑色アウトラインは現スタミナ量に追加される。"
     },
     {
         &tl_39#
@@ -312,7 +312,7 @@
     {
         &tl_Entropy#
         Original English: "Entropy:/n/n- Unknown. Proceed further."
-        Translation: "エントロピー：/n/n- 不明。進行してください。"
+        Translation: "エントロピー：/n/n- 現在不明。"
     },
     {
         &tl_41#
@@ -362,7 +362,7 @@
     {
         &tl_50#
         Original English: "Total Weight can go beyond maximum weight."
-        Translation: "総重量は最大重量を超える可能性があります。"
+        Translation: "総重量は最大重量を超える可能性がある。"
     },
     {
         &tl_51#
@@ -417,7 +417,7 @@
     {
         &tl_61#
         Original English: "Anything over the limit is ignored."
-        Translation: "上限を超えた分は無視されます。"
+        Translation: "上限を超えた分は無視される。"
     },
     {
         &tl_62#
@@ -462,7 +462,7 @@
     {
         &tl_70#
         Original English: "100 rating is converted to 1% of damage reduction."
-        Translation: "100の値で1%のダメージ軽減に変換されます。"
+        Translation: "100の値で1%のダメージ軽減に変換される。"
     },
     {
         &tl_71#
@@ -512,7 +512,7 @@
     {
         &tl_80#
         Original English: "from Agility Attribute is applied to ranged weapon Draw Speed."
-        Translation: "の俊敏能力値が遠隔武器構え速度に適用されます。"
+        Translation: "の俊敏能力値が遠隔武器構え速度に適用される。"
     },
     {
         &tl_81#
@@ -532,7 +532,7 @@
     {
         &tl_84#
         Original English: "Can only be affected by Equipment, Perks or debuffs."
-        Translation: "装備・パーク・デバフの影響のみを受けます。"
+        Translation: "装備・パーク・デバフの影響のみを受ける。"
     },
     {
         &tl_85#
@@ -697,7 +697,7 @@
     {
         &tl_117#
         Original English: "Status Effect: Frost"
-        Translation: "状態異常：凍傷"
+        Translation: "状態異常：凍結"
     },
     {
         &tl_118#
@@ -707,7 +707,7 @@
     {
         &tl_119#
         Original English: "Enemies inflicted by frost have slowed movement, attack speed and reaction speed."
-        Translation: "凍傷の敵は移動・攻撃・反応速度が低下する。"
+        Translation: "凍結の敵は移動・攻撃・反応速度が低下する。"
     },
     {
         &tl_120#
@@ -772,17 +772,17 @@
     {
         &tl_132#
         Original English: "Silence prevents targets from casting any abilities."
-        Translation: "沈黙は対象のあらゆるアビリティ詠唱を阻止します。"
+        Translation: "沈黙は対象のあらゆるアビリティ詠唱を阻止する。"
     },
     {
         &tl_133#
         Original English: "Silence does not interrupt an ability already in progress."
-        Translation: "発動中のアビリティを中断することはありません。"
+        Translation: "発動中のアビリティを中断することはない。"
     },
     {
         &tl_134#
         Original English: "If the target is immune to silence, instead reduce their ability damage by 5% per stack of the debuff."
-        Translation: "対象が沈黙に免疫を持つ場合、代わりにデバフのスタック毎にアビリティダメージを5%低下させます。"
+        Translation: "対象が沈黙に免疫を持つ場合、代わりにデバフのスタック毎にアビリティダメージを5%低下させる。"
     },
     {
         &tl_135#
@@ -802,7 +802,7 @@
     {
         &tl_138#
         Original English: "Can be affected by gear or concoctions."
-        Translation: "装備や調合薬の影響を受けます。"
+        Translation: "装備や調合薬の影響を受ける。"
     },
     {
         &tl_139#
@@ -852,12 +852,12 @@
     {
         &tl_148#
         Original English: "from"
-        Translation: "から"
+        Translation: "："
     },
     {
         &tl_149#
         Original English: "attribute per instance of damage for a total of"
-        Translation: "能力値からダメージ毎、合計"
+        Translation: "能力値より。合計"
     },
     {
         &tl_150#
@@ -917,7 +917,7 @@
     {
         &tl_161#
         Original English: "Transport is already here."
-        Translation: "転移装置は既にこの場にある。"
+        Translation: "既に転移装置の位置です。"
     },
     {
         &tl_162#

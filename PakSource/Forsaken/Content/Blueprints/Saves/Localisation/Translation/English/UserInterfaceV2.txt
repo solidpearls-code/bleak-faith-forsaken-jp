@@ -382,7 +382,7 @@
     {
         &ui_frost#
         Original English: "Frost"
-        Translation: "凍傷"
+        Translation: "凍結"
     },
     {
         &ui_decay#
@@ -1047,7 +1047,7 @@
     {
         &ui_89#
         Original English: "Empty Stat Slot"
-        Translation: "空能力値スロット"
+        Translation: "空スロット"
     },
     {
         &ui_90#
