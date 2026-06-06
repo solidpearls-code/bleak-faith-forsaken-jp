@@ -202,7 +202,7 @@
     {
         &crystal_40#
         Original English: "Chance To Inflict Frost Status Effect."
-        Translation: "凍傷状態異常付与確率"
+        Translation: "凍結状態異常付与確率"
     },
     {
         &crystal_41#
